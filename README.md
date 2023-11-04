@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Mirantes</h1>
 <h3 align="center">A FullStack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [NatureForce](https://github.com/santiagomirantes/django-natureforce)
+- 🔭 I’m currently working on a Netflix Database model.
 
 - 🌱 I’m currently learning **SQL**
 
